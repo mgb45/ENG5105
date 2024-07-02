@@ -2,7 +2,7 @@
 
 
 * [Servo motor control](/RPI/motors/Servo_motor_control.ipynb)
-* [Ultrasound distance sensing](/RPI/sensors/ultrasound_distance.ipynb)
+* [Ultrasound distance sensing](/RPI/sensors/Ultrasound_distance.ipynb)
 * [Readiing audio from a microphone](/RPI/sensors/Microphone.ipynb)
 * [TCP/IP communications using the Python Socket library (PC/ Raspberry PI)](/RPI/communications/)
 * [Basic multiprocessing in Python](/RPI/multiprocessing/)
