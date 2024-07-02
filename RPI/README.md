@@ -1,11 +1,11 @@
 # Raspberry PI resources:
 
 
-* [Servo motor control](/motors/Servo_motor_control.ipynb)
-* [Ultrasound distance sensing](/sensors/ultrasound_distance.ipynb)
-* [Readiing audio from a microphone](/sensors/Microphone.ipynb)
-* [TCP/IP communications using the Python Socket library (PC/ Raspberry PI)](/communications/)
-* [Basic multiprocessing in Python](/multiprocessing/)
+* [Servo motor control](./motors/Servo_motor_control.ipynb)
+* [Ultrasound distance sensing](./sensors/ultrasound_distance.ipynb)
+* [Readiing audio from a microphone](./sensors/Microphone.ipynb)
+* [TCP/IP communications using the Python Socket library (PC/ Raspberry PI)](./communications/)
+* [Basic multiprocessing in Python](./multiprocessing/)
 
 # Setting up your Raspberry pi to run these notebooks
 
